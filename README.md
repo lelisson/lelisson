@@ -1,5 +1,3 @@
-  <p align="left"><img width="750" src="https://www.canva.com/design/DAFEj0Dbgbo/fl43uK_GoKd5y1vsF23tIA/view?utm_content=DAFEj0Dbgbo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" alt="rikemorais" /></p> 
-<div>
   <p align="left"><img width="750" src=" alt=https://www.canva.com/design/DAFEj0Dbgbo/fl43uK_GoKd5y1vsF23tIA/view?utm_content=DAFEj0Dbgbo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"rikemorais" /></p>
   <p align="left"><img width="750" src="https://github-readme-streak-stats.herokuapp.com?user=lelisson&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="lelisson" /></p>
 <div>
